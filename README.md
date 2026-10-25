@@ -49,7 +49,7 @@ Cette bibliothèque sera utilisée dans la plupart des projets futurs du cursus.
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/thaygoo/libft.git
+git clone https://github.com/huburton/libft.git
 cd libft
 ```
 
