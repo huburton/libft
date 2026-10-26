@@ -40,7 +40,8 @@ INCS    = includes
 NAME    = libft.a
 
 LIBC    = ar rc
-cd 
+
+LIBR    = ranlib
 
 CC        = gcc
 
